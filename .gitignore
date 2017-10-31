@@ -6,7 +6,8 @@
 *.ear
 
 #kdiff3 ignore
-target/
+target
+node_modules
 
 #eclipse ignore
 .settings/
